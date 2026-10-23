@@ -1,1 +1,6 @@
+My Git Practice Project
 Main branch version
+Feature branch version
+Added new feature description
+Added feature testing notes
+Merge conflict resolved successfully

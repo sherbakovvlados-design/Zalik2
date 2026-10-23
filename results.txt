@@ -1,0 +1,66 @@
+=== GIT STATUS ===
+On branch main
+Your branch is behind 'origin/main' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	results.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+=== GIT BRANCH ===
+  feature-update
+* main
+
+=== GIT LOG ===
+commit 1ab8b1fb835bc469184437fa91b2a3151f30c4c0
+Merge: d82813d a173c3f
+Author: Vlad <sherbakovvlados@gmail.com>
+Date:   Fri Oct 23 10:06:19 2026 +0300
+
+    Resolve merge conflict between main and feature-update
+
+commit d82813d77129037812f395ae40e8392961c0db16
+Author: Vlad <sherbakovvlados@gmail.com>
+Date:   Fri Oct 23 10:04:45 2026 +0300
+
+    Update info.txt in main branch
+
+commit a173c3f07e1053260e71794f07f6f76c20baa02b
+Author: Vlad <sherbakovvlados@gmail.com>
+Date:   Fri Oct 23 10:02:58 2026 +0300
+
+    Add testing notes
+
+commit 7072ff035089dc3b3dccba9752cca4baf7c4bc58
+Author: Vlad <sherbakovvlados@gmail.com>
+Date:   Fri Oct 23 10:02:56 2026 +0300
+
+    Add feature description
+
+commit 8b571c8e9f69f70ca050457cde44e014097aea1f
+Author: Vlad <sherbakovvlados@gmail.com>
+Date:   Fri Oct 23 10:02:55 2026 +0300
+
+    Update info.txt in feature branch
+
+commit 19a6cd4ea9027103b0729e83b371413cb6097647
+Author: Vlad <sherbakovvlados@gmail.com>
+Date:   Fri Oct 23 10:01:52 2026 +0300
+
+    Create info.txt with project title
+
+commit bd9996672be908c6d69ed73cb3e2ee4ecc67a6b6
+Author: Vlad <sherbakovvlados@gmail.com>
+Date:   Fri Oct 23 09:52:56 2026 +0300
+
+    Initial commit
+
+=== GIT LOG --MERGES ===
+commit 1ab8b1fb835bc469184437fa91b2a3151f30c4c0
+Merge: d82813d a173c3f
+Author: Vlad <sherbakovvlados@gmail.com>
+Date:   Fri Oct 23 10:06:19 2026 +0300
+
+    Resolve merge conflict between main and feature-update
